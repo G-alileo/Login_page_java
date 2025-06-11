@@ -14,7 +14,7 @@ The UI includes:
 ## 📁 Project Output
 
 <p>
-   <img src="https://raw.githubusercontent.com/G-alileo/Login_page_java/main/Assets/Login_page1.png" alt="Login_page" />
+   <img src="https://raw.githubusercontent.com/G-alileo/Login_page_java/main/Assets/Login_page.png" alt="Login_page" />
 </p>
 
 
